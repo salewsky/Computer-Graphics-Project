@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.30)  12 JUN 2022 16:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.30)  8 MAY 2023 14:54
 entering extended mode
 **./slides.tex
 (slides.tex
@@ -1092,110 +1092,6 @@ c) [2
 ] [7
 
 ]
-<Images/MAPF-Problem.png, id=85, 390.70969pt x 390.70969pt>
-File: Images/MAPF-Problem.png Graphic file (type png)
-<use Images/MAPF-Problem.png>
-Package pdftex.def Info: Images/MAPF-Problem.png  used on input line 43.
-(pdftex.def)             Requested size: 156.2811pt x 156.2811pt.
- [8
-
- <./Images/MAPF-Problem.png>] [9
-
-] [10
-
-] [11
-
-] [12
-
-] [13
-
-]
-<Images/SP-Example.png, id=118, 390.70969pt x 390.70969pt>
-File: Images/SP-Example.png Graphic file (type png)
-<use Images/SP-Example.png>
-Package pdftex.def Info: Images/SP-Example.png  used on input line 64.
-(pdftex.def)             Requested size: 156.2811pt x 156.2811pt.
- [14
-
- <./Images/SP-Example.png>] [15
-
-] [16
-
-] [17
-
-] [18
-
-] [19
-
-] [20
-
-]
-<Images/Post-Combining-Example.png, id=156, 390.70969pt x 390.70969pt>
-File: Images/Post-Combining-Example.png Graphic file (type png)
-<use Images/Post-Combining-Example.png>
-Package pdftex.def Info: Images/Post-Combining-Example.png  used on input line 
-85.
-(pdftex.def)             Requested size: 156.2811pt x 156.2811pt.
- [21
-
- <./Images/Post-Combining-Example.png>]
-<Images/ONC-2-2-Example.png, id=163, 390.70969pt x 390.70969pt>
-File: Images/ONC-2-2-Example.png Graphic file (type png)
-<use Images/ONC-2-2-Example.png>
-Package pdftex.def Info: Images/ONC-2-2-Example.png  used on input line 92.
-(pdftex.def)             Requested size: 156.2811pt x 156.2811pt.
- [22
-
- <./Images/ONC-2-2-Example.png>] [23
-
-] [24
-
-] [25
-
-] [26
-
-] [27
-
-]
-<Images/RN-Explanation.png, id=196, 333.49594pt x 333.49594pt>
-File: Images/RN-Explanation.png Graphic file (type png)
-<use Images/RN-Explanation.png>
-Package pdftex.def Info: Images/RN-Explanation.png  used on input line 112.
-(pdftex.def)             Requested size: 133.39601pt x 133.39601pt.
- [28
-
- <./Images/RN-Explanation.png>] [29
-
-] [30
-
-] [31
-
-] [32
-
-] [33
-
-] [34
-
-] [35
-
-] [36
-
-] [37
-
-]
-[38
-
-] [39
-
-] [40
-
-] [41
-
-] [42
-
-] [43
-
-]
 \tf@nav=\write6
 \openout6 = `slides.nav'.
 
@@ -1206,24 +1102,42 @@ Package pdftex.def Info: Images/RN-Explanation.png  used on input line 112.
 \openout8 = `slides.snm'.
 
  (slides.aux)
-Package rerunfilecheck Info: File `slides.out' has not changed.
-(rerunfilecheck)             Checksum: A2C7D74E8A33B7F691ABC80764664E7F;246.
+
+Package rerunfilecheck Warning: File `slides.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `slides.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  4CA0FF56E3EE124326A4720E136735D1;47.
  ) 
 Here is how much of TeX's memory you used:
- 19293 strings out of 479662
- 371694 string characters out of 2863093
- 649587 words of memory out of 3000000
- 35866 multiletter control sequences out of 15000+200000
+ 19174 strings out of 479662
+ 369868 string characters out of 2863093
+ 649391 words of memory out of 3000000
+ 35826 multiletter control sequences out of 15000+200000
  405242 words of font info for 33 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  125i,11n,126p,413b,601s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Adrian/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmss10.pfb><C:/Users/Adrian/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmss12.pfb><C:/Users/Adrian/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on slides.pdf (43 pages, 144187 bytes).
+pdfTeX warning (dest): name{Navigation39} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Navigation34} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Navigation29} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Navigation9} has been referenced but does not exist
+, replaced by a fixed one
+
+<C:/Users/Adrian/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmss10.pfb><C:/Users/Adrian/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmss12.pfb><C:/Users/Adrian/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmss8.pfb>
+Output written on slides.pdf (7 pages, 46021 bytes).
 PDF statistics:
- 312 PDF objects out of 1000 (max. 8388607)
- 92 named destinations out of 1000 (max. 500000)
- 120 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 83 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
+ 55 words of extra memory for PDF output out of 10000 (max. 10000000)
 
