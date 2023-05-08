@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.30)  8 MAY 2023 14:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.30)  8 MAY 2023 15:41
 entering extended mode
 **./slides.tex
 (slides.tex
@@ -1084,12 +1084,57 @@ c) [2
 
 ] [4
 
-] [5
+]
+<images/invariance.png, id=46, 1445.4pt x 813.0375pt>
+File: images/invariance.png Graphic file (type png)
+<use images/invariance.png>
+Package pdftex.def Info: images/invariance.png  used on input line 45.
+(pdftex.def)             Requested size: 289.07487pt x 162.60461pt.
+ [5
+
+ <./images/invariance.png>]
+<images/equivariance.png, id=53, 1445.4pt x 813.0375pt>
+File: images/equivariance.png Graphic file (type png)
+<use images/equivariance.png>
+Package pdftex.def Info: images/equivariance.png  used on input line 52.
+(pdftex.def)             Requested size: 289.07487pt x 162.60461pt.
+ [6
+
+ <./images/equivariance.png>] [7
+
+] [8
+
+] [9
+
+] [10
 
 ]
-[6
+LaTeX Font Info:    Trying to load font information for U+msa on input line 77.
 
-] [7
+
+("C:\Users\Adrian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 77.
+
+ ("C:\Users\Adrian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
+"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
+ut line 77.
+
+("C:\Users\Adrian\AppData\Local\Programs\MiKTeX 2.9\tex/latex/sansmathaccent\ot
+1mathkerncmss.fd"
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+) [11
+
+] [12
+
+] [13
+
+] [14
 
 ]
 \tf@nav=\write6
@@ -1109,35 +1154,24 @@ Package rerunfilecheck Warning: File `slides.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `slides.out':
 (rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  4CA0FF56E3EE124326A4720E136735D1;47.
+(rerunfilecheck)             After:  9E09FFF148CB027B0C756D3546D70947;201.
  ) 
 Here is how much of TeX's memory you used:
- 19174 strings out of 479662
- 369868 string characters out of 2863093
- 649391 words of memory out of 3000000
- 35826 multiletter control sequences out of 15000+200000
- 405242 words of font info for 33 fonts, out of 3000000 for 9000
+ 19257 strings out of 479662
+ 372029 string characters out of 2863093
+ 647391 words of memory out of 3000000
+ 35871 multiletter control sequences out of 15000+200000
+ 410180 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  125i,11n,126p,413b,601s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Navigation39} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Navigation34} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Navigation29} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Navigation9} has been referenced but does not exist
-, replaced by a fixed one
-
-<C:/Users/Adrian/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmss10.pfb><C:/Users/Adrian/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmss12.pfb><C:/Users/Adrian/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on slides.pdf (7 pages, 46021 bytes).
+<C:/Users/Adrian/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmss10.pfb><C:/Users/Adrian/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmss12.pfb><C:/Users/Adrian/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/Adrian/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on slides.pdf (14 pages, 667675 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
- 55 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 124 PDF objects out of 1000 (max. 8388607)
+ 33 named destinations out of 1000 (max. 500000)
+ 65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
