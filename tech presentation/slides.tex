@@ -2,6 +2,9 @@
 
 \usepackage[utf8]{inputenc}
 \usepackage{listings}
+\usepackage{caption}
+\captionsetup[figure]{font=tiny}
+
 \usetheme{Copenhagen}
 \setbeamertemplate{navigation symbols}{}
 \setbeamertemplate{headline}{}
@@ -16,16 +19,13 @@
 
 \frame{\titlepage}
 
-\begin{frame}
-\frametitle{Table of Contents}
-\tableofcontents
-\end{frame}
 
 \section{Introduction} 
 \begin{frame}
 \frametitle{Introduction}
 \begin{figure}[h]
 \centering{\includegraphics[scale=.25]{images/encoder-decoder}}
+\caption{https://www.youtube.com/watch?v=Lft6r5oVyXM}
 \end{figure}
 \end{frame}
 
@@ -34,6 +34,7 @@
 \frametitle{Invariance}
 \begin{figure}[h]
 \centering{\includegraphics[scale=.2]{images/invariance}}
+\caption{https://www.youtube.com/watch?v=2bP\_KuBrXSc}
 \end{figure}
 \end{frame}
 
@@ -41,6 +42,7 @@
 \frametitle{Equivariance}
 \begin{figure}[h]
 \centering{\includegraphics[scale=.2]{images/equivariance}}
+\caption{https://www.youtube.com/watch?v=2bP\_KuBrXSc}
 \end{figure}
 \end{frame}
 
@@ -49,11 +51,13 @@
 \begin{frame}
 \frametitle{Frame Averaging}
 \begin{itemize}
-\item<2-> Method to introduce equivariance and invariance to networks
+\item<2-> Group averaging is needed to make functions invariant/equivariant
 \bigskip
-\item<3-> Averaging over subset of group instead of whole group
+\item<3-> Groups can be infinite (e.g. E(3)) $\rightarrow$ complete averaging is impossible
 \bigskip
-\item<4-> Efficient and expressive
+\item<4-> Instead find function (called frame) that assigns to subgroup of a group
+\bigskip
+\item<5-> If frame invariant/equivariant $\rightarrow$ only averaging over frame needed
 \end{itemize}
 \end{frame}
 
@@ -61,11 +65,13 @@
 \begin{frame}
 \frametitle{Outlook}
 \begin{itemize}
-\item<2-> Introduce layer-wise equivariance in decoder
+\item<2-> Implement Autoencoder for Mesh $\rightarrow$ Mesh 
 \bigskip
-\item<3-> Each layer represents features
+\item<3-> Introduce layer-wise equivariance in decoder part
 \bigskip
-\item<4-> Mesh $\rightarrow$ Mesh
+\item<4-> Layer-wise results could contain learnable features (e.g. DatasetGAN)
+\bigskip
+\item<5-> FAUST Dataset
 \end{itemize}
 \end{frame}
 
